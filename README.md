@@ -1,4 +1,6 @@
-جمعية الحوسبة السحابية السعودية
+![image](https://github.com/user-attachments/assets/9bf1cd54-a61d-4281-863b-d16cee8d78ba)
+
+جمعيةً الحوسبة السحابية السعودية
 Saudi Cloud Computing Association
 
 مرحبًا بكم في المستودع الرسمي لجمعية الحوسبة السحابية السعودية.  
