@@ -51,10 +51,14 @@
 - **العنوان**: 4962 ابن رواحة - حي المحمدية، رقم الوحدة: 555، الرياض 12361 - 6933، المملكة العربية السعودية  
 - **البريد الإلكتروني**: info@cloud.org.sa  
 - **الموقع الإلكتروني**: [https://cloud.org.sa](https://cloud.org.sa)  
-- **تويتر**: [@saudicca](https://x.com/saudicca)  
-- **لينكدإن**: [جمعية الحوسبة السحابية](https://www.linkedin.com/company/saudicca)  
-- **يوتيوب**: [قناة الجمعية](https://www.youtube.com/channel/UCXXXXXXX)  
-- **تليجرام**: [قناة الجمعية](https://t.me/saudicca)
+- **تويتر**:
+   [@saudicca](https://x.com/saudicca)  
+- **لينكدإن**:
+   [جمعية الحوسبة السحابية](https://www.linkedin.com/company/saudicca)  
+- **يوتيوب**:
+   [قناة الجمعية](https://www.youtube.com/channel/UCXXXXXXX)  
+- **تليجرام**:
+   [قناة الجمعية](https://t.me/saudicca)
 
 ---
 
